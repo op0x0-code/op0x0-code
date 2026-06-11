@@ -1,3 +1,4 @@
+![Banner](.github/assets/readme-banner.png)
 ## Hi there, my name is Benjamin 👋
 I'm a Writer, Strategist and Mentor on the intersection of the Real World and the Digital Future.  
 I'm currently learning Full Stack Development.  
