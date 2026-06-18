@@ -9,4 +9,3 @@ Besides being self employed and full time Dad of two.
 - 👯 I'm looking to learn how to build my own Smart Assemblies for that reason
 - ⚡ Fun fact: I love chocolate 🍫!
 - 📫 How to reach me: ...have to figure that out next I guess
-- 🤖 My stance on the use of AI? Read my [AI-TRANSPARENCY.md](https://github.com/op0x0-code/less-uplink/blob/main/AI-TRANSPARENCY.md)
